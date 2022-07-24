@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Wise faucet
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A multi-crypto faucet that pays out in PAW, Banano and Nano. 
 
 ## Available Scripts
 
